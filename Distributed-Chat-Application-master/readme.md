@@ -37,4 +37,4 @@ $ npm run build && serve ./build
 
 Thanks,
 
-Bisakh
+Arijit
